@@ -15,3 +15,16 @@ int static plus(int a, int b) {
 
   return c;
 }
+
+int static ravenstvo(int a, int b) {
+	bool c = 0;
+	if (a == b) {
+		c = true;
+	}
+	else {
+		c = false;
+	}
+
+
+	return c;
+}
