@@ -1,7 +1,2 @@
-#include <iostream>
+std::cout << "main parted already start!" << std::endl;
 
-int main() {
-	std::cout << "main parted already start!" << std::endl;
-
-	return 0;
-}
