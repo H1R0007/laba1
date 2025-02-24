@@ -17,10 +17,4 @@ endif()
 
 project(laba1)
 
-set(SOURCE_FILES
-    src/main.cpp
-    src/utils.cpp
-)
-
-add_executable(main main.cpp)
-add_executable(utils utils.cpp)
+add_subdirectory(src)
