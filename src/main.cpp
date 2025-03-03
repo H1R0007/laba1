@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-	std::cout << "program is alrready started!" << std::endl;
+	std::cout << "program is alrready started!!!" << std::endl;
 
 	int a = 0;
 	int b = 0;
